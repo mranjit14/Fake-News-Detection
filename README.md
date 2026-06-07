@@ -1,4 +1,4 @@
-# Fake-News-Detection using Pattern Recongnition
+# Fake-News-Detection using Pattern Recognition
 
 A Machine Learning-based application that classifies news articles as **Real** or **Fake** by analyzing textual content. The project leverages Natural Language Processing (NLP) techniques and supervised machine learning algorithms to identify misinformation and improve news credibility assessment.
 
